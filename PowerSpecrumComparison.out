@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Theory: Power spectrum, bispectrum and estimation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Power spectrum}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Bispectrum}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Basic estimators}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Shot noise}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Mass assignment scheme: NGP, CIC, TGP, Deaubichis}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Aliasing for the power spectrum and bispectrum}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Methods}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Simulation}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Power spectrum estimation}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Bispectrum estimation}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Aliasing effect}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Results}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Power spectrum}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Bispectrum}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.3}{Aliasing}{section.4}% 17
+\BOOKMARK [1][-]{section.5}{Summary and discussion}{}% 18
+\BOOKMARK [1][-]{section.A1}{Some extra material}{}% 19

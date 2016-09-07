@@ -1,0 +1,102 @@
+\begin{thebibliography}{}
+\makeatletter
+\relax
+\def\mn@urlcharsother{\let\do\@makeother \do\$\do\&\do\#\do\^\do\_\do\%\do\~}
+\def\mn@doi{\begingroup\mn@urlcharsother \@ifnextchar [ {\mn@doi@}
+  {\mn@doi@[]}}
+\def\mn@doi@[#1]#2{\def\@tempa{#1}\ifx\@tempa\@empty \href
+  {http://dx.doi.org/#2} {doi:#2}\else \href {http://dx.doi.org/#2} {#1}\fi
+  \endgroup}
+\def\mn@eprint#1#2{\mn@eprint@#1:#2::\@nil}
+\def\mn@eprint@arXiv#1{\href {http://arxiv.org/abs/#1} {{\tt arXiv:#1}}}
+\def\mn@eprint@dblp#1{\href {http://dblp.uni-trier.de/rec/bibtex/#1.xml}
+  {dblp:#1}}
+\def\mn@eprint@#1:#2:#3:#4\@nil{\def\@tempa {#1}\def\@tempb {#2}\def\@tempc
+  {#3}\ifx \@tempc \@empty \let \@tempc \@tempb \let \@tempb \@tempa \fi \ifx
+  \@tempb \@empty \def\@tempb {arXiv}\fi \@ifundefined
+  {mn@eprint@\@tempb}{\@tempb:\@tempc}{\expandafter \expandafter \csname
+  mn@eprint@\@tempb\endcsname \expandafter{\@tempc}}}
+
+\bibitem[\protect\citeauthoryear{{Bernardeau}, {Colombi}, {Gazta{\~n}aga}  \&
+  {Scoccimarro}}{{Bernardeau} et~al.}{2002}]{Bernardeau2002}
+{Bernardeau} F.,  {Colombi} S.,  {Gazta{\~n}aga} E.,   {Scoccimarro} R.,  2002,
+  \mn@doi [Physics Reports] {10.1016/S0370-1573(02)00135-7}, \href
+  {http://adsabs.harvard.edu/abs/2002PhR...367....1B} {367, 1}
+
+\bibitem[\protect\citeauthoryear{{Cui}, {Liu}, {Yang}, {Wang}, {Feng}  \&
+  {Springel}}{{Cui} et~al.}{2008}]{Cui2008}
+{Cui} W.,  {Liu} L.,  {Yang} X.,  {Wang} Y.,  {Feng} L.,   {Springel} V.,
+  2008, \mn@doi [\apj] {10.1086/592079}, \href
+  {http://adsabs.harvard.edu/abs/2008ApJ...687..738C} {687, 738}
+
+\bibitem[\protect\citeauthoryear{Frigo \& Johnson}{Frigo \&
+  Johnson}{2005}]{FFTW05}
+Frigo M.,  Johnson S.~G.,  2005, Proceedings of the IEEE, 93, 216
+
+\bibitem[\protect\citeauthoryear{{Gil-Mar{\'{\i}}n}, {Wagner}, {Fragkoudi},
+  {Jimenez}  \& {Verde}}{{Gil-Mar{\'{\i}}n} et~al.}{2012}]{GilMarin2012}
+{Gil-Mar{\'{\i}}n} H.,  {Wagner} C.,  {Fragkoudi} F.,  {Jimenez} R.,   {Verde}
+  L.,  2012, \mn@doi [Journal of Cosmology and Astroparticle Physics]
+  {10.1088/1475-7516/2012/02/047}, \href
+  {http://adsabs.harvard.edu/abs/2012JCAP...02..047G} {2, 047}
+
+\bibitem[\protect\citeauthoryear{{Gil-Mar{\'{\i}}n}, {Nore{\~n}a}, {Verde},
+  {Percival}, {Wagner}, {Manera}  \& {Schneider}}{{Gil-Mar{\'{\i}}n}
+  et~al.}{2015}]{GilMarin2015}
+{Gil-Mar{\'{\i}}n} H.,  {Nore{\~n}a} J.,  {Verde} L.,  {Percival} W.~J.,
+  {Wagner} C.,  {Manera} M.,   {Schneider} D.~P.,  2015, \mn@doi [Monthly
+  Notices of the Royal Astronomical Society] {10.1093/mnras/stv961}, \href
+  {http://adsabs.harvard.edu/abs/2015MNRAS.451..539G} {451, 539}
+
+\bibitem[\protect\citeauthoryear{{Hockney} \& {Eastwood}}{{Hockney} \&
+  {Eastwood}}{1981}]{HockneyEastwood1981}
+{Hockney} R.~W.,  {Eastwood} J.~W.,  1981, {Computer Simulation Using
+  Particles}
+
+\bibitem[\protect\citeauthoryear{{Jeong}}{{Jeong}}{2010}]{Jeong2010}
+{Jeong} D.,  2010, PhD thesis, University of Texas at Austin
+
+\bibitem[\protect\citeauthoryear{{Jeong} \& {Komatsu}}{{Jeong} \&
+  {Komatsu}}{2009}]{Jeong2009}
+{Jeong} D.,  {Komatsu} E.,  2009, \mn@doi [\apj] {10.1088/0004-637X/691/1/569},
+  \href {http://adsabs.harvard.edu/abs/2009ApJ...691..569J} {691, 569}
+
+\bibitem[\protect\citeauthoryear{{Jing}}{{Jing}}{2005}]{Jing2005}
+{Jing} Y.~P.,  2005, \mn@doi [Astrophysical Journal] {10.1086/427087}, \href
+  {http://adsabs.harvard.edu/abs/2005ApJ...620..559J} {620, 559}
+
+\bibitem[\protect\citeauthoryear{{Mart{\'i}nez} \& {Saar}}{{Mart{\'i}nez} \&
+  {Saar}}{2002}]{Martinez2002}
+{Mart{\'i}nez} V.~J.,  {Saar} E.,  2002, {Statistics of the Galaxy
+  Distribution}.
+Chapman \& Hall/CRC
+
+\bibitem[\protect\citeauthoryear{{Matarrese}, {Verde}  \&
+  {Heavens}}{{Matarrese} et~al.}{1997}]{Matarrese1997}
+{Matarrese} S.,  {Verde} L.,   {Heavens} A.~F.,  1997, \mn@doi [Monthly Notices
+  of the Royal Astronomical Society] {10.1093/mnras/290.4.651}, \href
+  {http://adsabs.harvard.edu/abs/1997MNRAS.290..651M} {290, 651}
+
+\bibitem[\protect\citeauthoryear{{Montesano}, {S{\'a}nchez}  \&
+  {Phleps}}{{Montesano} et~al.}{2010}]{Montesano2010}
+{Montesano} F.,  {S{\'a}nchez} A.~G.,   {Phleps} S.,  2010, \mn@doi [\mnras]
+  {10.1111/j.1365-2966.2010.17292.x}, \href
+  {http://adsabs.harvard.edu/abs/2010MNRAS.408.2397M} {408, 2397}
+
+\bibitem[\protect\citeauthoryear{{Peebles}}{{Peebles}}{1980}]{Peebles1980}
+{Peebles} P.~J.~E.,  1980, {The large-scale structure of the universe}.
+Addison-Wesley, Princeton, N.J.
+
+\bibitem[\protect\citeauthoryear{{Press}, {Teukolsky}, {Vetterling}  \&
+  {Flannery}}{{Press} et~al.}{1992}]{Press1992}
+{Press} W.~H.,  {Teukolsky} S.~A.,  {Vetterling} W.~T.,   {Flannery} B.~P.,
+  1992, {Numerical recipes in C. The art of scientific computing}
+
+\bibitem[\protect\citeauthoryear{{Scoccimarro}, {Colombi}, {Fry}, {Frieman},
+  {Hivon}  \& {Melott}}{{Scoccimarro} et~al.}{1998}]{Scoccimarro1998}
+{Scoccimarro} R.,  {Colombi} S.,  {Fry} J.~N.,  {Frieman} J.~A.,  {Hivon} E.,
+  {Melott} A.,  1998, \mn@doi [\apj] {10.1086/305399}, \href
+  {http://adsabs.harvard.edu/abs/1998ApJ...496..586S} {496, 586}
+
+\makeatother
+\end{thebibliography}

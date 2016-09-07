@@ -1,0 +1,288 @@
+\documentclass[useAMS,usenatbib]{mn2e}
+\usepackage{graphicx}
+\usepackage{color}
+%\usepackage{amstex, amssymb}
+\voffset-1.25cm
+
+% If your system does not have the AMS fonts version 2.0 installed, then
+% remove the useAMS option.
+%
+% useAMS allows you to obtain upright Greek characters.
+% e.g. \umu, \upi etc.  See the section on "Upright Greek characters" in
+% this guide for further information.
+%
+% If you are using AMS 2.0 fonts, bold math letters/symbols are available
+% at a larger range of sizes for NFSS release 1 and 2 (using \boldmath or
+% preferably \bmath).
+%
+% The usenatbib command allows the use of Patrick Daly's natbib.sty for
+% cross-referencing.
+%
+% If you wish to typeset the paper in Times font (if you do not have the
+% PostScript Type 1 Computer Modern fonts you will need to do this to get
+% smoother fonts in a PDF file) then uncomment the next line
+% \usepackage{Times}
+
+%%%%% AUTHORS - PLACE YOUR OWN MACROS HERE %%%%%
+
+
+\newcommand{\Rq}{$\rm R_{1/4} $}
+
+\newcommand{\hMsun}{$h^{-1}\rm{M_{\odot}}$}
+\newcommand{\hMpc}{$h^{-1}\rm{Mpc}$}
+\newcommand{\hGpc}{$h^{-1}\rm{Gpc}$}
+
+
+\newcommand{\etal}{et al.}
+\newcommand{\rhocrit}{\rho_{\rm c}}
+\newcommand{\rhorms}{\rho_{rms}}
+\newcommand{\xoff}{x_{off}}
+\newcommand{\cvir}{c_{vir}}
+\newcommand{\Rvir}{R_{\rm vir}}
+\newcommand{\Mvir}{M_{\rm vir}}
+\newcommand{\rs}{r_s}
+\newcommand{\Jvir}{J_{\rm vir}}
+\newcommand{\Vvir}{V_{\rm vir}}
+\newcommand{\Nvir}{N_{\rm vir}}
+\newcommand{\Ms}{M_{s}}
+\newcommand{\Mth}{$\mathrm{M}_\mathrm{th}$}
+\newcommand{\Mdom}{$\mathrm{M}_\mathrm{dom}$}
+
+\newcommand{\mnras}{MNRAS}
+\newcommand{\apj}{ApJ}
+\newcommand{\apjs}{ApJs}
+\newcommand{\apjl}{ApJL}
+\newcommand{\aj}{AJ}
+\newcommand{\aap}{A\&A}
+\newcommand{\prd}{Phys. Rev. D.}
+\newcommand{\physrep}{Phy. Rep.}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title[Power Spectrum Comparison...]
+{Power Spectrum Comparison... y ya veremos que mas!}
+\author[O. Nicol\'as Gomez-Giraldo, Juan C. Mu\~noz-Cuartas {\bf el orden habra de cambiar, el primer autor se lo merece}]
+       {O. Nicol\'as Gomez-Giraldo $^{1}$\thanks{Email : onicolas.gomez@udea.edu.co};
+         Juan C. Mu\~noz-Cuartas $^{1}$\thanks{Email : jcmunozc@udea.edu.co};\\ $^{1}$ FACom
+         - Instituto de F\'isica, FCEN, Universidad de Antioquia UdeA, Calle
+         70 No. 52-21, Medell\'in, Colombia.\\ 
+         }
+\begin{document}
+
+\date{Accepted XXXX December XX. Received XXXX December XX; in original form
+  2015 Jan 30}
+
+\pagerange{\pageref{firstpage}--\pageref{lastpage}} \pubyear{2002}
+
+\maketitle
+
+\label{firstpage}
+
+\begin{abstract}
+
+Here we put the abstract
+
+\end{abstract}
+
+\begin{keywords}
+
+\end{keywords}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% SECTION 1: Introduction
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+
+Presentacion del problema
+Resumen de la bibliografia
+que es lo que hacemos
+por que es importante
+esquleto del paper
+
+Objetivo del paper: Mostrar las bondades de la estimacion del
+bispectrum usando deaubichis. En particular mostrando los efectos del
+aliasing en el bispectrum.
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% SECTION 2: OBSERVATIONAL DATA
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Theory: Power spectrum, bispectrum and estimation} 
+\label{sec:theory}
+
+Teoria basica del Pk y Bk. Definiciones, estimadores (formalismo)
+
+\subsection{Mass assignment scheme: NGP, CIC, TGP, Deaubichis}
+\label{sec:theory:MAS}
+
+Teoria basica del MAS. Definiciones, estimadores
+(formalismo). Implicaciones ventajas y desventajas de cada metodo.
+
+(Figura: figurita con las formas!)
+
+\subsection{Aliasing: NGP, CIC, TGP, Deaubichis}
+\label{sec:theory:aliasing}
+
+Teoria basica del aliasing. Definiciones, estimadores
+(formalismo). Implicaciones ventajas y desventajas de cada metodo.
+presentar Calculo del aliasing del aliasing general (nuevo?)
+
+(Figura: Podemos hacer una grafica del formalismo ``general" del
+aliasing comparando con lo que hay en el mercado)
+
+\section{Methods}
+\label{sec:methods}
+
+\subsection{Simulations}
+\label{sec:methods:simulations}
+
+Describir los datos de las simulaciones, por que? pa' que?
+
+\subsection{Power spectrum and bispectrum estimators}
+\label{sec:methods:pkbk}
+
+Como se estima el espectro de potencia y bispectrum en los datos?
+detalles de la implementacion.
+Pruebas? Todo funciona bien? -> comparaciones con el modelo teorico!
+
+Una buena descripcion para dummies de como calcular el bispectrum.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% SECTION 3: RESULTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Results} 
+\label{sec:results}
+
+\subsection{Power spectrum}
+\label{sec:results:pk}
+
+Discutir el resultado de Pk con los diferentes MAS (Colombi
+et.al. 2009). Efectos del aliasing, shot noise y demas.
+Como va eso en el Bk?
+
+(figura: Pk con los diferentes MAS, mascas de kf, etc)
+
+\subsection{Bispectrum}
+\label{sec:results:bk}
+
+Asi nos dio el bispectrum
+comparacion del bispectrum con los diferentes MAS.
+Analisis de diferencias
+
+(figura: Bk con los diferentes MAS, mascas de kf, etc)
+
+\subsection{Aliasing}
+\label{sec:results:bk}
+
+Estimar (cuantitativaente) los efectos del aliasing
+(Figura: estimacion del aliasing, variaciones fraccionales, etc)
+
+
+\section{Summary and discussion}
+
+
+
+\section*{Acknowledgments}
+
+
+\bibliography{references}
+% \begin{thebibliography}{99}
+%  
+% % \bibitem[{Abazajian}, K.~N. \& {Adelman-McCarthy}, J.~K. \& {Ag{\"u}eros}, M.~A. \& 
+% % 	{Allam}, S.~S. \& {Allende Prieto}, C. \& {An}, D. \& {Anderson}, K.~S.~J. \& 
+% % 	{Anderson}, S.~F. \& {Annis}, J. \& {Bahcall}, N.~A. \& et al.]{2009ApJS..182..543A} Abazajian, K.~N. and Adelman-McCarthy, J.~K. and Ag{\"u}eros, M.~A. and 
+% % 	Allam, S.~S. and Allende Prieto, C. and An, D. and Anderson, K.~S.~J. and 
+% % 	Anderson, S.~F. and Annis, J. and Bahcall, N.~A. \& et al.\ 2009, \apjs, 543, 558  
+% 
+% \bibitem[Becker \& Kravtsov(2011)]{2011ApJ...740...25B} Becker, M.~R.,
+%   \& Kravtsov, A.~V.\ 2011, \apj, 740, 25
+% 
+% \bibitem[Bertschinger(2001)]{2001ApJS..137....1B} Bertschinger,
+%   E.\ 2001, \apjs, 137, 1
+% 
+% \bibitem[Betancort-Rijo et al.(2006)]{2006ApJ...649..579B} Betancort-Rijo, 
+% J.~E., Sanchez-Conde, M.~A., Prada, F., 
+% \& Patiri, S.~G.\ 2006, \apj, 649, 579 
+% 
+% \bibitem[Bryan \& Norman(1998)]{1998ApJ...495...80B} Bryan, G.~L., \&
+%   Norman, M.~L.\ 1998, \apj, 495, 80
+% 
+% \bibitem[Gil-Mar{\'{\i}}n et al.(2011)]{2011MNRAS.414.1207G} 
+% Gil-Mar{\'{\i}}n, H., Jimenez, R., \& Verde, L.\ 2011, \mnras, 414, 1207
+% 
+% \bibitem[Haas et al.(2012)]{2012MNRAS.419.2133H} Haas, M.~R., Schaye,
+%   J., \& Jeeson-Daniel, A.\ 2012, \mnras, 419, 2133
+% 
+% \bibitem[Komatsu et al. (2009)]{2009ApJS..180..330K} Komatsu E., et
+%   al., 2009, ApJS, 180, 330
+% 
+% \bibitem[Kowalski et al.(2008)]{2008ApJ...686..749K} Kowalski, M., Rubin, 
+% D., Aldering, G., et al.\ 2008, \apj, 686, 749 
+% 
+% \bibitem[Macci{\`o} et al.(2008)]{2008MNRAS.391.1940M} Macci{\`o}, A.~V.,
+%   Dutton, A.~A., \& van den Bosch, F.~C.\ 2008, \mnras, 391, 1940
+% 
+% \bibitem[Mandelbaum et al.(2006)]{2006MNRAS.372..758M} Mandelbaum, R., 
+% Seljak, U., Cool, R.~J., et al.\ 2006, \mnras, 372, 758 
+% 
+% \bibitem[Mu{\~n}oz-Cuartas et al.(2011)]{2011MNRAS.411..584M} 
+% Mu{\~n}oz-Cuartas, J.~C., Macci{\`o}, A.~V., Gottl{\"o}ber, S., 
+% \& Dutton, A.~A.\ 2011a, \mnras, 411, 584 
+% 
+% \bibitem[Mu{\~n}oz-Cuartas et al.(2011)]{2011MNRAS.417.1303M}
+%   Mu{\~n}oz-Cuartas, J.~C., M{\"u}ller, V., \& Forero-Romero,
+%   J.~E.\ 2011b, \mnras, 417, 1303
+% 
+% \bibitem[Oguri \& Hamana(2011)]{2011MNRAS.414.1851O} Oguri, M., \&
+%   Hamana, T.\ 2011, \mnras, 414, 1851
+% 
+% \bibitem[Pope et al.(2004)]{2004AIPC..743..120P} Pope, A., Szalay, A., 
+% Matsubara, T., et al.\ 2004, The New Cosmology: Conference on Strings and 
+% Cosmology, 743, 120
+% 
+% \bibitem[Prada et al.(2006)]{2006ApJ...645.1001P} Prada, F., Klypin, A.~A., 
+% Simonneau, E., et al.\ 2006, \apj, 645, 1001 
+% 
+% \bibitem[Riess et al.(1998)]{1998AJ....116.1009R} Riess, A.~G.,
+%   Filippenko, A.~V., Challis, P., et al.\ 1998a, \aj, 116, 1009
+% 
+% \bibitem[Riess(1998)]{1998AAS...192.1706R} Riess, A.~G.\ 1998b, Bulletin of 
+% the American Astronomical Society, 30, 843
+% 
+% \bibitem[Spergel et al.(2007)]{2007ApJS..170..377S} Spergel, D.~N., et
+%   al.\ 2007, \apjs, 170, 377
+% 
+% \bibitem[Stadel(2001)]{2001PhDT........21S} Stadel, J.~G.\ 2001,
+%   Ph.D.~Thesis.
+% 
+% \bibitem[Tavio et al.(2008)]{2008arXiv0807.3027T} Tavio, H., Cuesta, A.~J., 
+% Prada, F., Klypin, A.~A., \& Sanchez-Conde, M.~A.\ 2008, arXiv:0807.3027 
+% 
+% \bibitem[Tegmark et al.(2004)]{2004PhRvD..69j3501T} Tegmark, M., et
+%   al.\ 2004, \prd, 69, 103501
+% 
+% \bibitem[Tinker et al.(2011)]{2011arXiv1107.5046T} Tinker, J., Wetzel, A., 
+% \& Conroy, C.\ 2011, arXiv:1107.5046 
+% 
+% \bibitem[Wang et al.(2009)]{2009MNRAS.394..398W} Wang, H., Mo, H.~J.,
+% Jing, Y.~P., Guo, Y., van den Bosch, F.~C., \& Yang, X.\ 2009, \mnras,
+% 394, 398
+% 
+% \bibitem[Wechsler et al.(2002)]{2002ApJ...568...52W} Wechsler, R.~H., Bullock,
+%   J.~S., Primack, J.~R., Kravtsov, A.~V., \& Dekel, A.\ 2002, \apj, 568, 52
+% 
+% \bibitem[White \& Rees(1978)]{1978MNRAS.183..341W} White, S.~D.~M., \&
+%   Rees, M.~J.\ 1978, \mnras, 183, 341
+% 
+%   
+% \end{thebibliography}
+
+\bsp
+
+\label{lastpage}
+
+\end{document}

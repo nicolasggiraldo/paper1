@@ -1,0 +1,553 @@
+@comment{x-kbibtex-personnameformatting=<%l><, %f>}
+
+@article{Fry1984,
+	adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+	adsurl = "http://adsabs.harvard.edu/abs/1984ApJ...279..499F",
+	author = "{Fry}, J.~N.",
+	doi = "10.1086/161913",
+	journal = "Astrophysical Journal",
+	keywords = "Big Bang Cosmology; Galactic Clusters; Perturbation Theory;
+	Universe; Astronomical Models; Correlation; Fourier Transformation;
+	Functions (Mathematics); Hierarchies",
+	month = apr,
+	pages = "499--510",
+	title = "{The Galaxy correlation hierarchy in perturbation theory}",
+	volume = 279,
+	year = 1984
+}
+
+@article{Bernardeau2002,
+	adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+	adsurl = "http://adsabs.harvard.edu/abs/2002PhR...367....1B",
+	author = "{Bernardeau}, F. and {Colombi}, S. and {Gazta{\~n}aga}, E. and
+	{Scoccimarro}, R.",
+	doi = "10.1016/S0370-1573(02)00135-7",
+	eprint = "astro-ph/0112551",
+	journal = "Physics Reports",
+	month = sep,
+	pages = "1--248",
+	title = "{Large-scale structure of the Universe and cosmological
+	perturbation theory}",
+	volume = 367,
+	year = 2002
+}
+
+@ARTICLE{Scoccimarro1998,
+   author = {{Scoccimarro}, R. and {Colombi}, S. and {Fry}, J.~N. and 
+   {Frieman}, J.~A. and {Hivon}, E. and {Melott}, A.},
+    title = "{Nonlinear Evolution of the Bispectrum of Cosmological 
+    Perturbations}",
+  journal = {\apj},
+   eprint = {astro-ph/9704075},
+ keywords = {COSMOLOGY: LARGE-SCALE STRUCTURE OF UNIVERSE, METHODS: NUMERICAL, 
+ METHODS: STATISTICAL, Cosmology: Large-Scale Structure of Universe, Methods:
+ Numerical, Methods: Statistical},
+     year = 1998,
+    month = mar,
+   volume = 496,
+    pages = {586-604},
+      doi = {10.1086/305399},
+   adsurl = {http://adsabs.harvard.edu/abs/1998ApJ...496..586S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{Scoccimarro1997,
+	adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+	adsurl = "http://adsabs.harvard.edu/abs/1997ApJ...487....1S",
+	author = "{Scoccimarro}, R.",
+	eprint = "astro-ph/9612207",
+	journal = "Astrophysical Journal",
+	keywords = "Cosmology: Theory; large-scale structure of the universe; 
+	Methods: Numerical",
+	month = sep,
+	pages = "1--17",
+	title = "{Cosmological Perturbations: Entering the Nonlinear Regime}",
+	volume = 487,
+	year = 1997
+}
+
+@article{Schmittfull2013,
+	adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+	adsurl = "http://adsabs.harvard.edu/abs/2013PhRvD..88f3512S",
+	archiveprefix = "arXiv",
+	author = "{Schmittfull}, M.~M. and {Regan}, D.~M. and 
+	{Shellard}, E.~P.~S.",
+	doi = "10.1103/PhysRevD.88.063512",
+	eid = "063512",
+	eprint = "1207.5678",
+	journal = "Physical Review D",
+	keywords = "Cosmology; Particle-theory and field-theory models of the 
+	early Universe; Superclusters; large-scale structure of the Universe; 
+	Observational cosmology",
+	month = sep,
+	number = 6,
+	pages = "063512",
+	primaryclass = "astro-ph.CO",
+	title = "{Fast estimation of gravitational and primordial bispectra in 
+	large scale structures}",
+	volume = 88,
+	year = 2013
+}
+
+@book{Peacock1999,
+	adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+	adsurl = "http://adsabs.harvard.edu/abs/1999coph.book.....P",
+	author = "{Peacock}, J.~A.",
+	booktitle = "{Cosmological Physics, by John A.~Peacock, 
+	pp.~704.~ISBN 052141072X.~Cambridge, UK: Cambridge University Press, 
+	January 1999.}",
+	month = jan,
+	title = "{Cosmological Physics}",
+	publisher = "Cambridge University Press",
+	address   = "Cambridge, UK",
+	year = 1999
+}
+
+@book{Peebles1980,
+	adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+	adsurl = "http://adsabs.harvard.edu/abs/1980lssu.book.....P",
+	author = "{Peebles}, P.~J.~E.",
+	booktitle = "{Research supported by the National Science Foundation.
+	~Princeton, N.J., Princeton University Press, 1980.~435 p.}",
+	keywords = "Cosmology; Galactic Clusters; Galactic Evolution; Universe; 
+	Astronomical Models; Correlation; Mass Distribution; Particle Motion; 
+	Relativistic Theory; Statistical Distributions",
+	title = "{The large-scale structure of the universe}",
+	publisher = "Addison-Wesley",
+	address   = "Princeton, N.J.",
+	year = 1980
+}
+
+@book{Martinez2002,
+	adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+	adsurl = "http://adsabs.harvard.edu/abs/2002sgd..book.....M",
+	author = "{Mart{\'i}nez}, V.~J. and {Saar}, E.",
+	booktitle = "{Statistics of the Galaxy Distribution, Published by Chapman \& Hall/CRC, Boca Raton, ISBN: 1584880848}",
+	keywords = "COSMOLOGY; GALAXIES; LARGE-SCALE STRUCTURE OF THE UNIVERSE; STATISTICAL METHODS",
+	publisher = "Chapman \& Hall/CRC",
+	title = "{Statistics of the Galaxy Distribution}",
+	year = 2002
+}
+
+@article{MunozCuartas2011,
+	adsnote = "Provided by the SAO/NASA Astrophysics Data System",
+	adsurl = "http://adsabs.harvard.edu/abs/2011MNRAS.417.1303M",
+	archiveprefix = "arXiv",
+	author = "{Mu{\~n}oz-Cuartas}, J.~C. and {M{\"u}ller}, V. and {Forero-Romero}, J.~E.",
+	doi = "10.1111/j.1365-2966.2011.19344.x",
+	eprint = "1107.1062",
+	journal = "Monthly Notices of the Royal Astronomical Society",
+	keywords = "methods: numerical; galaxies: haloes; dark matter; large-scale structure of Universe",
+	month = oct,
+	pages = "1303--1317",
+	primaryclass = "astro-ph.CO",
+	title = "{Halo-based reconstruction of the cosmic mass density field}",
+	volume = 417,
+	year = 2011
+}
+
+@ARTICLE{MunozCuartas2012,
+   author = {{Mu{\~n}oz-Cuartas}, J.~C. and {M{\"u}ller}, V.},
+    title = "{Galaxy groups and haloes in the seventh data release of the Sloan Digital Sky Survey}",
+  journal = "Monthly Notices of the Royal Astronomical Society",
+ keywords = {galaxies: haloes, cosmology: observations, dark matter},
+     year = 2012,
+    month = jun,
+   volume = 423,
+    pages = {1583-1595},
+      doi = {10.1111/j.1365-2966.2012.20981.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2012MNRAS.423.1583M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Alam2015,
+   author = {{Alam}, S. and {Albareti}, F.~D. and {Allende Prieto}, C. and 
+	{Anders}, F. and {Anderson}, S.~F. and {Andrews}, B.~H. and 
+	{Armengaud}, E. and {Aubourg}, {\'E}. and {Bailey}, S. and {Bautista}, J.~E. and others},
+    title = "{The Eleventh and Twelfth Data Releases of the Sloan Digital Sky Survey: Final Data from SDSS-III}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1501.00963},
+   volume = {1501.00963},
+ primaryClass = "astro-ph.IM",
+ keywords = {Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - Astrophysics of Galaxies, Astrophysics - Solar and Stellar Astrophysics},
+     year = 2015,
+    month = jan,
+   adsurl = {http://adsabs.harvard.edu/abs/2015arXiv150100963A},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{Strauss2000,
+   author = {{Strauss}, M.~A. and {Frenk}, C.~S. and {Matarrese}, S. and 
+	{Pen}, U.-L.},
+    title = "{Galaxy Biasing}",
+booktitle = {Cosmic Flows Workshop},
+     year = 2000,
+   series = {Astronomical Society of the Pacific Conference Series},
+   volume = 201,
+   editor = {{Courteau}, S. and {Willick}, J.},
+    pages = {371},
+   adsurl = {http://adsabs.harvard.edu/abs/2000ASPC..201..371S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Matarrese1997,
+   author = {{Matarrese}, S. and {Verde}, L. and {Heavens}, A.~F.},
+    title = "{Large-scale bias in the Universe: bispectrum method}",
+  journal = {Monthly Notices of the Royal Astronomical Society},
+   eprint = {astro-ph/9706059},
+ keywords = {GALAXIES: CLUSTERS: GENERAL, COSMOLOGY: THEORY, DARK MATTER, LARGE-SCALE STRUCTURE OF UNIVERSE},
+     year = 1997,
+    month = oct,
+   volume = 290,
+    pages = {651-662},
+      doi = {10.1093/mnras/290.4.651},
+   adsurl = {http://adsabs.harvard.edu/abs/1997MNRAS.290..651M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{GilMarin2015,
+   author = {{Gil-Mar{\'{\i}}n}, H. and {Nore{\~n}a}, J. and {Verde}, L. and 
+	{Percival}, W.~J. and {Wagner}, C. and {Manera}, M. and {Schneider}, D.~P.
+	},
+    title = "{The power spectrum and bispectrum of SDSS DR11 BOSS galaxies - I. Bias and gravity}",
+  journal = {Monthly Notices of the Royal Astronomical Society},
+archivePrefix = "arXiv",
+   eprint = {1407.5668},
+ keywords = {galaxies: haloes, cosmological parameters, cosmology: theory, large-scale structure of Universe},
+     year = 2015,
+    month = jul,
+   volume = 451,
+    pages = {539-580},
+      doi = {10.1093/mnras/stv961},
+   adsurl = {http://adsabs.harvard.edu/abs/2015MNRAS.451..539G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{GilMarin2014a,
+   author = {{Gil-Mar{\'{\i}}n}, H. and {Wagner}, C. and {Nore{\~n}a}, J. and {Verde}, L. and {Percival}, W.},
+    title = "{Dark matter and halo bispectrum in redshift space: theory and applications}",
+  journal = {Journal of Cosmology and Astroparticle Physics},
+archivePrefix = "arXiv",
+   eprint = {1407.1836},
+     year = 2014,
+    month = dec,
+   volume = 12,
+      eid = {029},
+    pages = {29},
+      doi = {10.1088/1475-7516/2014/12/029},
+   adsurl = {http://adsabs.harvard.edu/abs/2014JCAP...12..029G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{GilMarin2014b,
+   author = {{Gil-Mar{\'{\i}}n}, H. and {Nore{\~n}a}, J. and {Verde}, L. and {Percival}, W.~J. and {Wagner}, C. and {Manera}, M. and {Schneider}, D.~P.},
+    title = "{The power spectrum and bispectrum of SDSS DR11 BOSS galaxies I: bias and gravity}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1407.5668},
+ keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics, Astrophysics - Astrophysics of Galaxies},
+     year = 2014,
+    month = jul,
+   adsurl = {http://adsabs.harvard.edu/abs/2014arXiv1407.5668G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{Jing2005,
+   author = {{Jing}, Y.~P.},
+    title = "{Correcting for the Alias Effect When Measuring the Power Spectrum Using a Fast Fourier Transform}",
+  journal = {Astrophysical Journal},
+   eprint = {astro-ph/0409240},
+ keywords = {Galaxies: Clusters: General, Cosmology: Large-Scale Structure of Universe, Methods: Data Analysis, Methods: Statistical},
+     year = 2005,
+    month = feb,
+   volume = 620,
+    pages = {559-563},
+      doi = {10.1086/427087},
+   adsurl = {http://adsabs.harvard.edu/abs/2005ApJ...620..559J},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{GilMarin2012,
+   author = {{Gil-Mar{\'{\i}}n}, H. and {Wagner}, C. and {Fragkoudi}, F. and 
+	{Jimenez}, R. and {Verde}, L.},
+    title = "{An improved fitting formula for the dark matter bispectrum}",
+  journal = {Journal of Cosmology and Astroparticle Physics},
+archivePrefix = "arXiv",
+   eprint = {1111.4477},
+ primaryClass = "astro-ph.CO",
+     year = 2012,
+    month = feb,
+   volume = 2,
+      eid = {047},
+    pages = {047},
+      doi = {10.1088/1475-7516/2012/02/047},
+   adsurl = {http://adsabs.harvard.edu/abs/2012JCAP...02..047G},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Pollack2012,
+   author = {{Pollack}, J.~E. and {Smith}, R.~E. and {Porciani}, C.},
+    title = "{Modelling large-scale halo bias using the bispectrum}",
+  journal = "Monthly Notices of the Royal Astronomical Society",
+archivePrefix = "arXiv",
+   eprint = {1109.3458},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: theory, large-scale structure of Universe},
+     year = 2012,
+    month = mar,
+   volume = 420,
+    pages = {3469-3489},
+      doi = {10.1111/j.1365-2966.2011.20279.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2012MNRAS.420.3469P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Smith2008,
+   author = {{Smith}, R.~E. and {Sheth}, R.~K. and {Scoccimarro}, R.},
+    title = "{Analytic model for the bispectrum of galaxies in redshift space}",
+  journal = {Physical Review D},
+archivePrefix = "arXiv",
+   eprint = {0712.0017},
+ keywords = {Cosmology},
+     year = 2008,
+    month = jul,
+   volume = 78,
+   number = 2,
+      eid = {023523},
+    pages = {023523},
+      doi = {10.1103/PhysRevD.78.023523},
+   adsurl = {http://adsabs.harvard.edu/abs/2008PhRvD..78b3523S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{PlanckCollaboration2015,
+   author = {{Planck Collaboration} and {Ade}, P.~A.~R. and {Aghanim}, N. and 
+	{Arnaud}, M. and {Arroja}, F. and {Ashdown}, M. and {Aumont}, J. and 
+	{Baccigalupi}, C. and {Ballardini}, M. and {Banday}, A.~J. and others},
+    title = "{Planck 2015 results. XVII. Constraints on primordial non-Gaussianity}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1502.01592},
+   volume = {1502.01592},
+ keywords = {Astrophysics - Cosmology and Nongalactic Astrophysics},
+     year = 2015,
+    month = feb,
+   adsurl = {http://adsabs.harvard.edu/abs/2015arXiv150201592P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Einasto2010,
+   author = {{Einasto}, M. and {Tago}, E. and {Saar}, E. and {Nurmi}, P. and 
+	{Enkvist}, I. and {Einasto}, P. and {Hein{\"a}m{\"a}ki}, P. and 
+	{Liivam{\"a}gi}, L.~J. and {Tempel}, E. and {Einasto}, J. and 
+	{Mart{\'{\i}}nez}, V.~J. and {Vennik}, J. and {Pihajoki}, P.},
+    title = "{The Sloan great wall. Rich clusters}",
+  journal = {Astronomy and Astrophysics},
+archivePrefix = "arXiv",
+   eprint = {1007.4492},
+ keywords = {large-scale structure of the Universe, galaxies: clusters: general},
+     year = 2010,
+    month = nov,
+   volume = 522,
+      eid = {A92},
+    pages = {A92},
+      doi = {10.1051/0004-6361/201015165},
+   adsurl = {http://adsabs.harvard.edu/abs/2010A%26A...522A..92E},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Einasto2011,
+   author = {{Einasto}, M. and {Liivam{\"a}gi}, L.~J. and {Tempel}, E. and 
+	{Saar}, E. and {Tago}, E. and {Einasto}, P. and {Enkvist}, I. and 
+	{Einasto}, J. and {Mart{\'{\i}}nez}, V.~J. and {Hein{\"a}m{\"a}ki}, P. and 
+	{Nurmi}, P.},
+    title = "{The Sloan Great Wall. Morphology and Galaxy Content}",
+  journal = {Astrophysical Journal},
+archivePrefix = "arXiv",
+   eprint = {1105.1632},
+ keywords = {galaxies: clusters: general, large-scale structure of universe},
+     year = 2011,
+    month = jul,
+   volume = 736,
+      eid = {51},
+    pages = {51},
+      doi = {10.1088/0004-637X/736/1/51},
+   adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...736...51E},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Pimbblet2011,
+   author = {{Pimbblet}, K.~A. and {Andernach}, H. and {Fishlock}, C.~K. and 
+	{Roseboom}, I.~G. and {Owers}, M.~S.},
+    title = "{The architecture of Abell 1386 and its relationship to the Sloan Great Wall}",
+  journal = {Monthly Notices of the Royal Astronomical Society},
+archivePrefix = "arXiv",
+   eprint = {1008.3426},
+ keywords = {catalogues, galaxies: clusters: individual: Abell 1386, galaxies: distances and redshifts, galaxies: elliptical and lenticular, cD, galaxies: kinematics and dynamics, large-scale structure of Universe},
+     year = 2011,
+    month = jan,
+   volume = 410,
+    pages = {1837-1848},
+      doi = {10.1111/j.1365-2966.2010.17565.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.410.1837P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Sheth2011,
+   author = {{Sheth}, R.~K. and {Diaferio}, A.},
+    title = "{How unusual are the Shapley supercluster and the Sloan Great Wall?}",
+  journal = {Monthly Notices of the Royal Astronomical Society},
+archivePrefix = "arXiv",
+   eprint = {1105.3378},
+ keywords = {methods: analytical, galaxies: clusters: general, dark matter, large-scale structure of Universe},
+     year = 2011,
+    month = nov,
+   volume = 417,
+    pages = {2938-2949},
+      doi = {10.1111/j.1365-2966.2011.19453.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.417.2938S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@PHDTHESIS{Jeong2010,
+   author = {{Jeong}, D.},
+    title = {Cosmology with high $(z>1)$ redshift galaxy surveys},
+   school = {University of Texas at Austin},
+     year = 2010,
+    month = August,
+   adsurl = {http://adsabs.harvard.edu/abs/2010PhDT.........4J},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Dawson2013,
+   author = {{Dawson}, K.~S. and {Schlegel}, D.~J. and {Ahn}, C.~P. and {Anderson}, S.~F. and 
+	{Aubourg}, {\'E}. and {Bailey}, S. and {Barkhouser}, R.~H. and 
+	{Bautista}, J.~E. and {Beifiori}, A. and {Berlind}, A.~A. and others},
+    title = "{The Baryon Oscillation Spectroscopic Survey of SDSS-III}",
+  journal = {The Astronomical Journal},
+archivePrefix = "arXiv",
+   eprint = {1208.0022},
+ keywords = {cosmology: observations, surveys},
+     year = 2013,
+    month = jan,
+   volume = 145,
+      eid = {10},
+    pages = {10},
+      doi = {10.1088/0004-6256/145/1/10},
+   adsurl = {http://adsabs.harvard.edu/abs/2013AJ....145...10D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@BOOK{HockneyEastwood1981,
+   author = {{Hockney}, R.~W. and {Eastwood}, J.~W.},
+    title = "{Computer Simulation Using Particles}",
+booktitle = {Computer Simulation Using Particles, New York: McGraw-Hill, 1981},
+     year = 1981,
+   adsurl = {http://adsabs.harvard.edu/abs/1981csup.book.....H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Cui2008,
+   author = {{Cui}, W. and {Liu}, L. and {Yang}, X. and {Wang}, Y. and {Feng}, L. and 
+{Springel}, V.},
+    title = "{An Ideal Mass Assignment Scheme for Measuring the Power Spectrum 
+with Fast Fourier Transforms}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {0804.0070},
+ keywords = {cosmology: theory, large-scale structure of universe, methods: data 
+analysis, methods: numerical },
+     year = 2008,
+    month = nov,
+   volume = 687,
+      eid = {738-744},
+    pages = {738-744},
+      doi = {10.1086/592079},
+   adsurl = {http://adsabs.harvard.edu/abs/2008ApJ...687..738C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Montesano2010,
+   author = {{Montesano}, F. and {S{\'a}nchez}, A.~G. and {Phleps}, S.},
+    title = "{A new model for the full shape of the large-scale power spectrum}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {1007.0755},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: theory, large-scale structure of Universe},
+     year = 2010,
+    month = nov,
+   volume = 408,
+    pages = {2397-2412},
+      doi = {10.1111/j.1365-2966.2010.17292.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2010MNRAS.408.2397M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{Jeong2009,
+   author = {{Jeong}, D. and {Komatsu}, E.},
+    title = "{Perturbation Theory Reloaded. II. Nonlinear Bias, Baryon Acoustic Oscillations, and 
+Millennium Simulation in Real Space}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {0805.2632},
+ keywords = {cosmology: theory, large-scale structure of universe},
+     year = 2009,
+    month = jan,
+   volume = 691,
+    pages = {569-595},
+      doi = {10.1088/0004-637X/691/1/569},
+   adsurl = {http://adsabs.harvard.edu/abs/2009ApJ...691..569J},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@BOOK{Press1992,
+   author = {{Press}, W.~H. and {Teukolsky}, S.~A. and {Vetterling}, W.~T. and 
+	{Flannery}, B.~P.},
+    title = "{Numerical recipes in C. The art of scientific computing}",
+booktitle = {Cambridge: University Press, |c1992, 2nd ed.},
+     year = 1992,
+   adsurl = {http://adsabs.harvard.edu/abs/1992nrca.book.....P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@Article{FFTW05,
+  author = 	 {Frigo, Matteo and Johnson, Steven~G.},
+  title = 	 {The Design and Implementation of {FFTW3}},
+  journal = 	 {Proceedings of the IEEE},
+  year = 	 2005,
+  volume =	 93,
+  number =	 2,
+  pages =	 {216--231},
+  note =	 {Special issue on ``Program Generation, Optimization, and Platform Adaptation''}
+}
+
+@ARTICLE{Reid2010,
+   author = {{Reid}, B.~A. and {Percival}, W.~J. and {Eisenstein}, D.~J. and 
+	{Verde}, L. and {Spergel}, D.~N. and {Skibba}, R.~A. and 
+	{Bahcall}, N.~A. and {Budavari}, T. and {Frieman}, J.~A. and 
+	{Fukugita}, M. and {Gott}, J.~R. and {Gunn}, J.~E. and 
+	{Ivezi{\'c}}, {\v Z}. and {Knapp}, G.~R. and {Kron}, R.~G. and 
+	{Lupton}, R.~H. and {McKay}, T.~A. and {Meiksin}, A. and 
+	{Nichol}, R.~C. and {Pope}, A.~C. and {Schlegel}, D.~J. and 
+	{Schneider}, D.~P. and {Stoughton}, C. and {Strauss}, M.~A. and 
+	{Szalay}, A.~S. and {Tegmark}, M. and {Vogeley}, M.~S. and 
+	{Weinberg}, D.~H. and {York}, D.~G. and {Zehavi}, I.},
+    title = "{Cosmological constraints from the clustering of the Sloan Digital 
+Sky Survey DR7 luminous red galaxies}",
+  journal = {\mnras},
+archivePrefix = "arXiv",
+   eprint = {0907.1659},
+ primaryClass = "astro-ph.CO",
+ keywords = {cosmology: observations, large-scale structure of Universe, 
+galaxies: haloes, galaxies: statistics},
+     year = 2010,
+    month = may,
+   volume = 404,
+    pages = {60-85},
+      doi = {10.1111/j.1365-2966.2010.16276.x},
+   adsurl = {http://adsabs.harvard.edu/abs/2010MNRAS.404...60R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
